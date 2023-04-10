@@ -11,7 +11,7 @@ Developer Links.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/230985778-cc1f2568-64a6-4f78-8654-368734f28bcf.jpg" width="700px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/230990434-11fbd324-2212-4dc9-9478-eb1f98ab5768.png" width="700px">
 </p>
 
 <br>
