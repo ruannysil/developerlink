@@ -57,9 +57,9 @@ export default function Login() {
             onChange={(e) => setPassword(e.target.value)}
           />
           {showPassword ? (
-            <HiEyeOff onClick={togglePassword} />
-          ) : (
             <HiEye onClick={togglePassword} />
+            ) : (
+            <HiEyeOff onClick={togglePassword} />
           )}
         </div>
         
