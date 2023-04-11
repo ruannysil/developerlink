@@ -32,7 +32,7 @@ Projeto Developer links foi desenvolvido para adiciona link de video ou projeto 
 
 ## 🔖 Link do Projeto
 
-Você pode visualizar o projeto através [DESSE LINK](https://costs-financial.vercel.app/). Compativel com Smartphone, Tablets e Desktop.
+Você pode visualizar o projeto através [DESSE LINK](https://developerlink.vercel.app/). Compativel com Smartphone, Tablets e Desktop.
 
 
 ## :memo: Licença
